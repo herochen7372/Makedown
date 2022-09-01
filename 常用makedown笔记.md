@@ -61,8 +61,11 @@ $\sum_{i=1}^n a_i=0$
 ```
 
 
-在线数学公式编译网站: [https://www.codecogs.com/latex/eqneditor.php]
+在线数学公式编译网站: 
+[https://www.codecogs.com/latex/eqneditor.php]
+
 [https://editor.codecogs.com/docs/2-CK_Editor_v4x.php]
+
 [https://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference]
 
 
