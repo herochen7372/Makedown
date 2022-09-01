@@ -3,6 +3,9 @@
 ## 一.文字
 
 1. 文字的大小、颜色、更改字体
+```
+<font face="逐浪立楷" color=green size=10>我是逐浪立楷，绿色，尺寸为5</font>
+```
 <font face="逐浪立楷" color=green size=10>我是逐浪立楷，绿色，尺寸为5</font>
 
 2. 下划线
