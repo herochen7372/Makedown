@@ -98,7 +98,7 @@ $$
 3.关系符号
 - $\geq$      $\leq$
 ```
-$\geq$ $\leq$
+$\geq$      $\leq$
 ```
 
 - $\in$      $\notin$
