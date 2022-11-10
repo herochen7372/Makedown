@@ -110,7 +110,7 @@ $$
   n&=\left[\frac{b-a}{0.01}\right]+1,    \\
   S&=\frac{1}{n}\sum\limits_{j=1}^{n}(\lambda_{0j}-\lambda_{j}).
   \end{split}
-  \end{equation}
+\end{equation}
   
   
 3.关系符号
