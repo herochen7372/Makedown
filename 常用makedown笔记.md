@@ -77,7 +77,8 @@ $\frac{}{}$
 ```
 $\frac{}{}$
 
-2. 分段函数
+2. 函数
+2.1 分段函数
 ```
 $$ 
 函数名= \begin{cases}
@@ -95,6 +96,23 @@ $$
 \end{cases}
 $$
 
+2.3 latex多个公式显示一个编号 对齐
+```latex
+\begin{equation}
+  \begin{split}
+  n&=\left[\frac{b-a}{0.01}\right]+1,    \\
+  S&=\frac{1}{n}\sum\limits_{j=1}^{n}(\lambda_{0j}-\lambda_{j}).
+  \end{split}
+  \end{equation}
+```
+\begin{equation}
+  \begin{split}
+  n&=\left[\frac{b-a}{0.01}\right]+1,    \\
+  S&=\frac{1}{n}\sum\limits_{j=1}^{n}(\lambda_{0j}-\lambda_{j}).
+  \end{split}
+  \end{equation}
+  
+  
 3.关系符号
 - $\geq$      $\leq$
 ```
